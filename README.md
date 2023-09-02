@@ -7,7 +7,7 @@ Things included in this repo are:
 
 * `requirments.txt`
 
-* `.devcontainer`
+* `.devcontainer` including a `Dockerfile`
 
 * `.gitignore`
 
