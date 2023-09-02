@@ -1,19 +1,9 @@
 """
-Main cli or app entry point
+Main code
 """
-
-from mylib.calculator import add
-import click
-
-#var=1;var=2
-
-@click.command("add")
-@click.argument("a", type=int)
-@click.argument("b", type=int)
-def add_cli(a, b):
-    click.echo(add(a, b))
-
+def add(a, b):
+    return a + b
 
 if __name__ == "__main__":
-    # pylint: disable=no-value-for-parameter
-    add_cli()
+    result = add(3, 5)
+    print(f"The result of adding 3 and 5 is {result}")
