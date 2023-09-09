@@ -1,7 +1,6 @@
 [![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
 ## Template for Python projects
-
-Things included in this repo are:
+The goal of this repository is to provide a template for future projects. It includes the following components:
 
 * 1. `Makefile`: a makefile is a configuration file used in Unix-based systems for autmating tasks and building software. It contains instructions and dependencies for compiling code, running tests, and other development tasks.
 I also used commands "make lint", "make test", "make format" to check format and errors, and my repo has passed all the test.
@@ -17,8 +16,9 @@ I also used commands "make lint", "make test", "make format" to check format and
 
 * 5. `GitHubActions(.github/workflows)': which contain configuration files for setting up automated build, test and deployment pipelines for the project.
 
-* 7.`README`
+* 6.`main.py`: This is the main Python script for the project. Modify it to implement the project's functionality.
 
+* 7. 'test_main.py': This is the unit testing script for the project. Write test cases to ensure the correctness of the code.
 
 
 
