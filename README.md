@@ -14,7 +14,7 @@ I also used commands "make lint", "make test", "make format" to check format and
 
 4. `.gitignore`: this file is used to specify which files or directories should be excluded from vrsion control when using Git.
 
-5. `GitHubActions(.github/workflows)': which contain configuration files for setting up automated build, test and deployment pipelines for the project.
+5. `GitHubActions': (.github/workflows) which contain configuration files for setting up automated build, test and deployment pipelines for the project.
 
 6. `main.py`: This is the main Python script for the project. Modify it to implement the project's functionality.
 
