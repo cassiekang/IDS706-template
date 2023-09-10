@@ -8,7 +8,7 @@ I also used commands "make lint", "make test", "make format" to check format and
 
 <img width="1153" alt="Screen Shot 2023-09-06 at 19 41 15" src="https://github.com/cassiekang/IDS706-template/assets/143849077/e9a1ba7c-f2aa-4a26-ba76-9aa0df0297e2">
 
-2. `requirments.txt`: this file is to specify the dependencies (libraries and packages) required to run the project. It  lists the 
+2. `requirments.txt`: this file is to specify the dependencies (libraries and packages) required to run the project.  
 
 3. `.devcontainer` including a `Dockerfile`: the 'Dockerfile' within this folder specifies how the container should be built, and other settings in this directory may control development environment configurations.
 
