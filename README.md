@@ -1,4 +1,4 @@
-[![CI](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/python-ruff-template/actions/workflows/cicd.yml)
+[![CI](https://github.com/cassiekang/IDS706-template/.github/workflows/cicd.yml/badge.svg)](https://github.com/cassiekang/IDS706-template/.github/workflows/cicd.yml)
 ## Template for Python projects
 The goal of this repository is to provide a template for future projects. It includes the following components:
 
